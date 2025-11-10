@@ -1,0 +1,19 @@
+.square {
+  border: 1px solid black;
+  padding: 16px;
+  border-radius: 10px ;
+  color: black;
+  background-color: #f9f9f9;
+  font-size: 20px;
+  margin-left: 400px;
+}
+div button {
+    margin-left: 12px;
+    padding: 8px 16px;
+ }
+ div input {
+    margin-left: 12px;
+    padding: 8px 16px;
+    font-size: 20px;
+    border-radius: 10px;
+ }
